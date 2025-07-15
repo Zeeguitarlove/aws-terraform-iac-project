@@ -1,0 +1,9 @@
+.terraform/
+*.exe.terraform/
+*.exe
+*.zip
+.terraform/
+*.exe
+*.pem
+*.key
+*.tfstate*
